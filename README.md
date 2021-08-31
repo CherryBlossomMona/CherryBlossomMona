@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CherryBlossomMona
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 -         Email: 1016930771@outlook.com
