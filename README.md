@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CherryBlossomMona
 - 👀 I’m interested Embedded Software Development  AI 
 - 🌱 I’m currently learning Java Android
-- 💞️ I’m looking to collaborate on ...Cancel changes
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 -         Email: 1016930771@outlook.com
 <!---
